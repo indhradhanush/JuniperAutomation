@@ -1,10 +1,4 @@
-Sample Module Repository
+Juniper Automation Projects used in POC
 ========================
 
-This simple project is an example repo for Python projects.
-
-`Learn more <http://www.kennethreitz.org/essays/repository-structure-and-python>`_.
-
----------------
-
-If you want to learn more about ``setup.py`` files, check out `this repository <https://github.com/kennethreitz/setup.py>`_.
+This repo is dedicated to JUNOS Scripts used for POC to enable a feature that was either not available natively or any other challenge in achieving natively.
